@@ -1,0 +1,14 @@
+git init
+
+git add sample.txt , test.txt
+
+git commit -m "updated"
+
+git remote add origin <https://github.com/Muthuramandevops/azure-resources.git> ( Repository Link )
+
+ git push -u origin master
+
+
+
+
+
